@@ -1,4 +1,9 @@
 
+.page-description {
+  padding: 30px;
+  border: 1px solid #000;
+  text-align: center;
+
 h1 {
   font-family: Palatino, 'Palatino Linotype', serif;
 	font-size: 32px;
